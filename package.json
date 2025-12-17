@@ -1,7 +1,7 @@
 {
   "name": "e-plantShopping",
   "private": true,
-  "homepage": "manicka2.github.io", // <-- Check this!
+  "homepage": "manicka2.github.io",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
