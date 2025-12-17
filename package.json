@@ -1,12 +1,12 @@
 {
   "name": "e-plantShopping",
   "private": true,
-  "homepage": "manicka2.github.io",
+  "homepage": "https://manicka2.github.io/eplant-shopping/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy" : "npm run build",
+    "predeploy" : "vite build",
     "deploy" : "gh -pages -d dist",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
